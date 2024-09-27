@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rudresh Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Fallow Your Dreams-- Make some change before you die</h3>
 
 - 🔭 I’m currently working on **Sports-Connecting App**
 
