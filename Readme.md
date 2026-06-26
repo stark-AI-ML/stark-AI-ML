@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&width=435&lines=A+system+architect+;Backend+Engineer;Deep+Learning!+is+love+(learning+...)+;Love+the+rabbit++cuz%2C+it's+fun+to+build)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&pause=1000&width=435&lines=A+system+architect+;Backend+Engineer;Deep+Learning!+is+love+(learning+...)+;Love+the+rabbit+hole++cuz%2C+it's+fun+to+build)](https://git.io/typing-svg)
